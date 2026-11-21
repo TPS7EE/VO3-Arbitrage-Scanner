@@ -1,0 +1,17 @@
+{
+  "mode": "live",
+  "min_roi_pct": 1.0,
+  "virtual_bankroll_eur": 100,
+  "refresh_seconds": 60,
+  "region": "eu",
+  "sport_keys": [
+  "soccer_epl",
+  "soccer_spain_la_liga",
+  "soccer_italy_serie_a",
+  "soccer_germany_bundesliga",
+  "soccer_france_ligue_one"
+],
+  "max_live_cycles": 2, 
+  "stop_if_quota_below": 20,
+  "max_quote_age_seconds": 180
+}

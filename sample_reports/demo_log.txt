@@ -1,0 +1,11 @@
+ARBITRAGE SCANNER — DEMO / READ-ONLY | ΟΧΙ ΠΡΑΓΜΑΤΙΚΑ BETS
+ΠΡΟΣΟΧΗ: Οι μετρήσεις Τ1 είναι παρατηρούμενες τιμές, όχι αποδεκτά bets.
+
+ARB-00001 | Παίκτης Α vs Παίκτης Β | SURVIVED
+  T0 2026-11-18T07:11:45+00:00 | ROI 2.000% | κέρδος 2.00 EUR
+    DEMO Bookmaker A / Παίκτης Α @ 2.04 | stake 50.00 EUR
+    DEMO Bookmaker B / Παίκτης Β @ 2.04 | stake 50.00 EUR
+  T1 2026-11-18T07:12:25+00:00 | ROI 0.980% | κέρδος 0.98 EUR
+    DEMO Bookmaker A / Παίκτης Α @ 2.0 | stake 50.50 EUR
+    DEMO Bookmaker B / Παίκτης Β @ 2.04 | stake 49.50 EUR
+
